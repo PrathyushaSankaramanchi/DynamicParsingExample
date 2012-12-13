@@ -1,0 +1,9 @@
+<products> 
+    <variant> 
+        <sku>123abc</sku>
+        <quantity>68</quantity>      
+        <sku1>321cba</sku>
+        <quantity1>22</quantity> 
+    </variant>
+    
+</products>
